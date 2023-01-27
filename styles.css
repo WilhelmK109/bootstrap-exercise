@@ -65,3 +65,52 @@ body {
   padding-left: 10px;
   margin: 12px 0% 0% 143px;
 }
+
+
+.col-md-4 {
+  margin-bottom: 50px;
+}
+
+.card-title {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Crete Round", sans-serif;
+  margin-top: 130px;
+}
+
+.card .btn {
+  border-radius: 0%;
+}
+
+.card-technologies {
+  margin: 10px 0 -20px 0;
+}
+
+.first-tech {
+  margin-left: -40px;
+}
+
+.card-tech {
+  display: inline;
+  font-family: "Inter", sans-serif;
+  padding: 10px 12px;
+  margin-right: 5px;
+  background-color: rgba(255, 255, 255, 0.24);
+}
+
+.multi-post {
+  margin-bottom: 50px;
+}
+
+.post-stories-tech {
+  margin-left: -40px;
+}
+
+.post-stories li {
+  display: inline;
+  margin-right: 5px;
+  padding: 8px 12px;
+  border: 1px solid #091e42;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
